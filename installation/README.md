@@ -8,5 +8,5 @@
 
 
 ## Minikube
-How to start a cluster using docker driver: 
+How to start a cluster using docker driver:  
 `minikube start --driver=docker`
